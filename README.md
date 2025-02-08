@@ -1,7 +1,7 @@
 # Secure-Chat-Application-
  A Secure Chat Application with Encryption, Decryption, Tic-Tac-Toe game and Thematic UI highlighting all the advanced concepts of JAVA
- <br>
- Author - Akshit Bhui
+ 
+<h2> Author - Akshit Bhui</h2>
 <br>
 <section>
     <h2>Project Concepts</h2>
